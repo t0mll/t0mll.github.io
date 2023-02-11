@@ -23,8 +23,8 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
-#env:
-  #BUILD_PATH: "/"
+env:
+  BUILD_PATH: "."
 
 jobs:
   build:
@@ -54,6 +54,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
+          working-directory: ${{ env.BUILD_PATH }}
           cache: ${{ steps.detect-package-manager.outputs.manager }}
           cache-dependency-path: ${{ env.BUILD_PATH }}/package-lock.json
       - name: Setup Pages
