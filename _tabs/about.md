@@ -43,4 +43,5 @@ Outside the world of coding and development, I maintain a keen interest in Machi
 Thank you for visiting my page. Feel free to connect with me through the provided contact information or explore more about my professional journey on this site.
 
 Best regards,
+
 Thomas Carlier
