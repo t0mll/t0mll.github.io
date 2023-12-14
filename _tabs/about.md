@@ -23,6 +23,7 @@ With a robust skill set and a penchant for problem-solving, I have accumulated a
 **Database Management**: Proficient in building and managing relational databases, including MS SQL, MySQL, and Postgres. As well as NoSQL offering such as DynamoDB.
 
 **DevOps Mastery**: Well-versed in server setup, maintenance, and monitoring, ensuring the robustness and reliability of software solutions. Using AWS CDK to setup fully automated CI/CD pipeline or Github actions for smaller projects.
+Builiding and maintaining K8s clusters and container environments.
 
 ## Professional Journey:
 
