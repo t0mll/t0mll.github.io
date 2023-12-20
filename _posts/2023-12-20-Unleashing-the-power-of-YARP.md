@@ -1,9 +1,10 @@
 ---
-title: Unleashing the Power of YARP .NET - Revolutionizing Web Application Routing
+title: Unleashing the Power of YARP .NET -
 date: 2023-12-20 11:39:00 +1000
 categories: [YARP, Reverse Proxy, .Net]
 tags: [yarp, reverse proxy]     # TAG names should always be lowercase
 ---
+# Unleashing the Power of YARP .NET - Revolutionizing Web Application Routing
 
 In the ever-evolving landscape of web development, efficient communication and seamless routing are key to building robust and scalable applications. Enter YARP .NET (Yet Another Reverse Proxy), a powerful and flexible library that is transforming the way developers handle routing in their web applications. In this blog post, we'll explore the features, benefits, and potential applications of YARP .NET.
 
