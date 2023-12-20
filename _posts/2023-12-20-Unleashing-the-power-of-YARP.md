@@ -1,5 +1,5 @@
 ---
-title: Unleashing the Power of YARP .NET: Revolutionizing Web Application Routing
+title: Unleashing the Power of YARP .NET - Revolutionizing Web Application Routing
 date: 2023-12-20 11:39:00 +1000
 categories: [YARP, Reverse Proxy. .Net]
 tags: [yarp, reverse proxy]     # TAG names should always be lowercase
