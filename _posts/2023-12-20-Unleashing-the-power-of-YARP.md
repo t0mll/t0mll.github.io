@@ -1,6 +1,6 @@
 ---
 title: Unleashing the Power of YARP .NET -
-date: 2023-12-20 11:39:00 +1000
+date: 2024-01-16 11:39:00 +1000
 categories: [YARP, Reverse Proxy, .Net]
 tags: [yarp, reverse proxy]     # TAG names should always be lowercase
 ---
